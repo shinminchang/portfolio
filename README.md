@@ -5,8 +5,8 @@
 - github : https://github.com/shinminchang
 
 # 경력
-## IUI
-* 2015. 11 ~ Now
+### IUI
+#### 2015. 11 ~ Now
 
 # 회사 프로젝트
 ## JAVA
