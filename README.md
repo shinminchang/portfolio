@@ -1,6 +1,6 @@
 # 신민창 Shin minchang
 
-- Language : JAVA, PHP, Android, C#
+- Language : JAVA, PHP, Android, C#, Javascript
 - Mail : tlsalsckd01@naver.com
 - github : https://github.com/shinminchang
 
