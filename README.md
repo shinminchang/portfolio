@@ -1,6 +1,6 @@
 # 신민창 Shin minchang
 
-- Language : Node.js ,JAVA, PHP, Android, C#, Javascript, Jquery, HTML/CSS
+- Skill : Node.js ,JAVA, PHP, Android, C#, Javascript, Jquery, HTML/CSS
 - Mail : tlsalsckd01@naver.com
 - github : https://github.com/shinminchang
 
